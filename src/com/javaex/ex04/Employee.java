@@ -10,7 +10,6 @@ public class Employee extends User{
 	
 	}
 	public Employee(String id, String password, String name, int salary) {
-		super();
 		super.id = id;
 		super.password = password;
 		super.name = name;

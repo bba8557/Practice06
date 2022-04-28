@@ -11,7 +11,6 @@ public class Customer extends Person{
 		
 	}
 	public Customer(String name, String hp, int cNo, int point) {
-		super();
 		super.name = name;
 		super.hp = hp;
 		this.cNo = cNo;

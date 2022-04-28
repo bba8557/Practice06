@@ -11,7 +11,6 @@ public class Customer extends User{
 	}
 
 	public Customer(String id, String password, String name, int point) {
-		super();
 		super.id = id;
 		super.password = password;
 		super.name = name;
